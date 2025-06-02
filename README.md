@@ -1,2 +1,2 @@
 
-https://mbebe.github.io/blomqvist/
+https://techtorture.github.io/blomqvist.Updat/
