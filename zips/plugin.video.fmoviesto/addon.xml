@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
-<addon id="plugin.video.fmoviesto" name="fmovies.to" version="1.34" provider-name="mbebe">
+<addon id="plugin.video.fmoviesco" name="fmovies.co" version="1.34" provider-name="mbebe">
     <requires>
         <import addon="script.module.requests" />
         <import addon="script.module.resolveurl"/>
@@ -8,9 +8,9 @@
         <provides>video</provides>
     </extension>
     <extension point="xbmc.addon.metadata">
-        <description>fmoviesz.to</description>
+        <description>fmovies.co</description>
         <disclaimer>https://github.com/mbebe/blomqvist</disclaimer>
-        <summary>fmoviesz.to</summary>
+        <summary>fmovies.co</summary>
         <language>pl</language>
         <platform>all</platform>
         <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
